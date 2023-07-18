@@ -1,4 +1,4 @@
 ### Olá! Eu sou a Camila Medeiros
 
-- 🌱 Atualmente iniciando nessa área da progamação
+- 🌱 Iniciando os estudos na área de programação
 -->
