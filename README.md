@@ -6,10 +6,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](medeirosrca@gmail.com)
 
 <div align="center"> 
-
+  
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=medeiroscamila&show_icons=true&theme=radical&count_private=true)
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscamila&layout=compact&langs_count=16&theme=radical)
-
 <div/>
 <br>
 
@@ -24,8 +23,8 @@
 </div><br/>
 
 <br>
-Apaixonada por tecnologia, por expandir meus conhecimentos e desenvolver minhas habilidades.<br>
-Uma iniciante nessa jornada de estudos em programação.
+✨ Apaixonada por tecnologia, por expandir meus conhecimentos e desenvolver minhas habilidades.<br>
+✨ Uma iniciante nessa jornada de estudos em programação.
 
 
 <div align="center">
