@@ -5,11 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/camilarmedeiros/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](medeirosrca@gmail.com)
 
-<div align="center">
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=medeiroscamila&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscamila&layout=compact&langs_count=16&theme=radical"/>
-</div>
+<div align="center"> 
+
+![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=medeiroscamila&show_icons=true&theme=radical&count_private=true)
+![Camila GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscamila&layout=compact&langs_count=16&theme=radical)
+
+<div/>
 <br>
 
 ## Estudando neste momento
