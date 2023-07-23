@@ -2,8 +2,7 @@
 
 ## Oiii, eu sou a Camila. Seja Bem-vindo(a)!<img  height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/camilarmedeiros/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](medeirosrca@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilarmedeiros/)
 
 <div align="center"> 
   
