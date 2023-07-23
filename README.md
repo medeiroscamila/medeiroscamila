@@ -11,6 +11,7 @@
 </div>
 <br>
 
+
 ## Estudando neste momento
 
 <div style="display: inline_block">
