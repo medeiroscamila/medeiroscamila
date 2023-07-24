@@ -5,8 +5,8 @@
 
 <div align="center"> 
   
-![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=medeiroscamila&show_icons=true&theme=radical&count_private=true)
-![Camila GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscamila&layout=compact&langs_count=16&theme=radical)
+![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=medeiroscamila&show_icons=true&theme=neon&count_private=true)
+![Camila GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroscamila&layout=compact&langs_count=16&theme=neon)
 <div/>
 <br>
 
