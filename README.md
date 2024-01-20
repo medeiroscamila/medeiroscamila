@@ -1,16 +1,26 @@
-### Hi there 👋
+<img src = "banner.gif" width = "325px" align = "right">
 
-<!--
-**medeiroscamila/medeiroscamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ❤ **Olá, eu sou a Camila. Bom ter você por aqui!**
 
-Here are some ideas to get you started:
+  <div id="badges">
+  <a href = "https://github.com/medeiroscamila">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em processo de transição de carreira, dando os primeiros passos na programação. <div>
+Empolgada para absorver conhecimentos e construir uma nova trajetória! ✨
+</div>
+
+## 💻 Atualmente estou aprendendo:
+
+- JavaScript
+- Python
+- Desenvolvendo habilidades em front-end
+
+## 🎯 Objetivos:
+
+- Aprofundar conhecimentos em desenvolvimento de software
+- Participar de projetos colaborativos.
+- Explorar o desenvolvimento web.
+- Contribuir para a comunidade de desenvolvedores.
+
+ ##
