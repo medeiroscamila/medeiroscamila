@@ -19,6 +19,6 @@ Empolgada para absorver conhecimentos e construir uma nova trajetória! ✨
 ## 🎯 Objetivos:
 
 - Aprofundar conhecimentos em desenvolvimento de software
-- Participar de projetos colaborativos.
-- Contribuir para a comunidade de desenvolvedores.
+- Participar de projetos colaborativos
+- Contribuir para a comunidade de desenvolvedores
 
