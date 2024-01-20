@@ -1,6 +1,6 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
-## ❤ **Olá, eu sou a Camila. Bom ter você por aqui!**
+# ❤ **Olá, eu sou a Camila. Bom ter você por aqui!**
 
   <div id="badges">
   <a href = "https://github.com/medeiroscamila">
@@ -22,4 +22,3 @@ Empolgada para absorver conhecimentos e construir uma nova trajetória! ✨
 - Participar de projetos colaborativos.
 - Contribuir para a comunidade de desenvolvedores.
 
- ##
