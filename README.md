@@ -14,13 +14,12 @@ Empolgada para absorver conhecimentos e construir uma nova trajetória! ✨
 
 - JavaScript
 - Python
-- Desenvolvendo habilidades em front-end
+
 
 ## 🎯 Objetivos:
 
 - Aprofundar conhecimentos em desenvolvimento de software
 - Participar de projetos colaborativos.
-- Explorar o desenvolvimento web.
 - Contribuir para a comunidade de desenvolvedores.
 
  ##
