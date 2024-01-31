@@ -15,7 +15,7 @@
   - Aluna do Programa ONE (Oracle Next Education), estou imersa nos estudos de desenvolvimento de software. Meu foco é adquirir conhecimento e aprimorar habilidades, impulsionando minha jornada de crescimento profissional.
       
   ### 🌐 Experiências de Imersão:
-   - Participei da Imersão Front-end Alura (HTML, CSS, JS), frameworks React e Angular. Desenvolvi uma página responsiva inspirada no Spotify, adquirindo conhecimentos essenciais para o desenvolvimento web.
+   - Participei da Imersão Front-end Alura (HTML, CSS, JS). Desenvolvi uma página responsiva inspirada no Spotify, adquirindo conhecimentos essenciais para o desenvolvimento web.
 
   ### 💻 Linguagens de Programação:
   - Atualmente aprendendo: JavaScript - HTML - CSS.
