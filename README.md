@@ -1,21 +1,29 @@
-<img src="banner.gif" width="400" alt="Banner" align="right">
+<h2> Oi, eu sou a Camila! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-# 👋 Olá, seja bem-vindo!
-
-<div align="left">
-  <p>Me chamo Camila e meu mergulho no universo da programação foi motivado pela curiosidade e entusiasmo. Desde então, minha jornada tem sido marcada pelo constante aprimoramento das minhas habilidades. Meu compromisso é aprender, praticar e construir uma base sólida para impulsionar meu crescimento profissional.</p>
-</div>
+<div align="left"><em>Meu mergulho no universo da programação foi motivado pela curiosidade e entusiasmo. Desde então,</br>minha jornada tem sido marcada pelo constante aprimoramento das habilidades, focada em aprender,<br> praticar e construir uma base sólida.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></div>
 
 <br>
 
-<div align="left">
-  <h3><strong> 📚 Estudando Atualmente</strong></h3>
-  <p>JavaScript - HTML - CSS</p>
-</div>
+[![Instagram: medeirosrca](https://img.shields.io/badge/-medeirosrca-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/medeirosrca/)](https://www.instagram.com/medeirosrca/)
+[![Linkedin: camilarmedeiros](https://img.shields.io/badge/-camilarmedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilarmedeiros/)](https://www.linkedin.com/in/camilarmedeiros/)
+[![GitHub medeiroscamila](https://img.shields.io/github/followers/medeiroscamila?label=follow&style=social)](https://github.com/medeiroscamila)
 
-<br>
 
-<div align="center" style="color: #61dafb;">
-  <img src="https://github-readme-stats.vercel.app/api?username=medeiroscamila&theme=radical&show_icons=true&hide=prs,contribs" width="450px"/>
-</div>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim... 
 
+```javascript
+const cami = {
+  pronouns: "she" | "her",
+  currentLearning: [JavaScript, HTML, CSS],
+  tools: [Vscode],
+                       
+  challenge: "Focusing on mastering the basics of HTML, CSS, and JavaScript."
+}
+```
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro me conectar com pessoas diferentes. Então, se quiser dar um oi, ficarei feliz em conhecê-lo melhor!</b> :)</em>
+
+---
