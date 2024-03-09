@@ -5,7 +5,6 @@
 
 <br>
 
-[![Instagram: medeirosrca](https://img.shields.io/badge/-medeirosrca-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/medeirosrca/)](https://www.instagram.com/medeirosrca/)
 [![Linkedin: camilarmedeiros](https://img.shields.io/badge/-camilarmedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilarmedeiros/)](https://www.linkedin.com/in/camilarmedeiros/)
 [![GitHub medeiroscamila](https://img.shields.io/github/followers/medeiroscamila?label=follow&style=social)](https://github.com/medeiroscamila)
 
