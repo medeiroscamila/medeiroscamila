@@ -1,7 +1,7 @@
 <h2> Oi, eu sou a Camila! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<div align="left"><em>Meu mergulho no universo da programação foi motivado pela curiosidade e entusiasmo. </br>Desde então, minha jornada tem sido marcada pelo constante aprimoramento das habilidades.<br>Focada em aprender, praticar e construir uma base sólida.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></div><br>
+<div align="left"><em>Decidi mergulhar no mundo da programação após uma mudança de carreira, impulsionada pela minha paixão de longa data pela tecnologia! Desde então, tenho me dedicado a aprimorar minhas habilidades. <br>Estou determinada a aprender, praticar e construir uma base sólida para esta nova jornada. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></div><br>
 
 <br>
 
